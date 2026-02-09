@@ -1,0 +1,10 @@
+set_global_assignment -name TOP_LEVEL_ENTITY smpgen
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "08:50:53 JANUARY 22, 2026"
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION "13.0 SP1"
+set_global_assignment -name LAST_QUARTUS_VERSION "13.0 SP1"
+# this is Cyclone V GX :
+set_global_assignment -name DEVICE 5CGXFC5C6F27C7
+set_global_assignment -name FAMILY "Cyclone V"
+set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (VHDL)"
+#set_global_assignment -name VERILOG_FILE sample.v
+#set_global_assignment -name VHDL_FILE sample.vhd
